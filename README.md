@@ -1,6 +1,7 @@
 # Algorithm-Sort-Visualizer
 
 Done for a College course
+
 A visualizer for algorithms like Bubble sort, Selection sort, Insertion sort, Quick sort, Merge sort.
 
 # Features
