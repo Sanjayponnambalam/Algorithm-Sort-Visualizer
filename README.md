@@ -1,7 +1,9 @@
 # Sorting Visualizer
 ---
 ## Overview
+
 Sorting Visualizer is a web-based application that allows users to visualize various sorting algorithms in action. The project dynamically generates an array of bars, representing numerical values, and provides buttons to sort the array using different sorting algorithms.
+
 ---
 ## Features
 - Generates a new random dataset for sorting
